@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>CommandWithLog</Text>
+    <FullClassName>CommandWithLog.Command</FullClassName>
+    <Assembly>CommandWithLog\CommandWithLog.dll</Assembly>
+    <AddInId>DFA2EED6-3A94-4300-9DC3-06DD0C11E14B</AddInId>
+    <VendorId>VendorId</VendorId>
+    <VendorDescription>VendorDescription</VendorDescription>
+  </AddIn>
+</RevitAddIns>
