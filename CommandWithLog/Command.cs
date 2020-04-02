@@ -29,10 +29,9 @@ namespace CommandWithLog
 
 			try
 			{
-				int i = 10;
 				TaskDialog.Show("Error", "Throw Exaption");
 
-				throw new Exception(string.Format("i = {0}", i.ToString()));
+				throw new Exception("Throw Exaption");
 
 				//return Result.Succeeded;
 			}
